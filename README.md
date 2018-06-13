@@ -41,7 +41,6 @@ https://smart-brain-1992.herokuapp.com/
 	</tr>
 </tbody>
 </table>
-<br/>
 
 ## Screenshots
 
