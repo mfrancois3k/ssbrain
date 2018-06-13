@@ -8,6 +8,9 @@ https://smart-brain-1992.herokuapp.com/
 * The project was developed as Full Stack Web app using technologies such as React.js | Node.js | Express.js | PostgreSQL
 
 ## System Design
+* Web Application uses a Client-Server Architecture with:
+  * Client components developed using React.js - Folder - '/smart-brain'   
+  * Server Restful Api's developed using Node.js, Express.js, PostgreSQL - Folder - '/smart-brain-api'
 
 ### Technology stack
 <br/>
