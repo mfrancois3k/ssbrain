@@ -28,10 +28,6 @@ https://smart-brain-1992.herokuapp.com/
 		<td>Express, Node.js</td>
 	</tr>
 	<tr>
-		<td>In-Memory Caching / Datastore</td>
-		<td>Redis</td>
-	</tr>
-	<tr>
 		<td>API Testing</td>
 		<td>Postman</td>
 	</tr>
@@ -46,7 +42,6 @@ https://smart-brain-1992.herokuapp.com/
 </tbody>
 </table>
 <br/>
-
 
 ## Screenshots
 
