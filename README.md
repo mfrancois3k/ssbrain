@@ -11,9 +11,10 @@ https://smart-brain-1992.herokuapp.com/
 * Web Application uses a Client-Server Architecture with:
   * Client components developed using React.js - Folder - '/smart-brain'   
   * Server Restful Api's developed using Node.js, Express.js, PostgreSQL - Folder - '/smart-brain-api'
+![Screenshot 4](/images/4.png)
 
 ### Technology stack
-<br/>
+![Screenshot 0](/images/0.PNG)
 <table>
 <thead>
 <tr>
