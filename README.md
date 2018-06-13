@@ -10,6 +10,43 @@ https://smart-brain-1992.herokuapp.com/
 ## System Design
 
 ### Technology stack
+<br/>
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>Technology</th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Front-End</td>
+		<td>React, Bootstrap, HTML5, CSS3, Javascript ( ES6 )</td>
+	</tr>
+	<tr>
+		<td>Back-End</td>
+		<td>Express, Node.js</td>
+	</tr>
+	<tr>
+		<td>In-Memory Caching / Datastore</td>
+		<td>Redis</td>
+	</tr>
+	<tr>
+		<td>API Testing</td>
+		<td>Postman</td>
+	</tr>
+	<tr>
+		<td>Database</td>
+		<td>PostgreSQL</td>
+	</tr>
+    <tr>
+		<td>Deployment</td>
+		<td>Heroku</td>
+	</tr>
+</tbody>
+</table>
+<br/>
+
 
 ## Screenshots
 
