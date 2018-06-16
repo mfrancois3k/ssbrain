@@ -56,3 +56,22 @@ https://smart-brain-1992.herokuapp.com/
 
 ##### Main Page
 ![Screenshot 3](/images/3.PNG)
+
+## Steps for Project Execution :
+
+Install PostgreSQL 
+
+Create Database and Tables
+
+Run PostgreSQL
+
+Client & Server:
+```
+cd smart-brain-api
+npm install
+npm start
+
+cd smart-brain
+npm install
+npm start
+```
