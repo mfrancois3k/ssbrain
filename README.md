@@ -55,8 +55,6 @@ https://smart-brain-1992.herokuapp.com/
 ##### Register
 ![Screenshot 2](/images/2.PNG)
 
-##### Main Page
-![Screenshot 3](/images/3.PNG)
 
 ## Steps for Project Execution :
 
